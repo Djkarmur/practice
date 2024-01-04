@@ -1,0 +1,14 @@
+{
+  "name": "node_traversy",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon http_demo.js"
+  },
+  "author": "dipak",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

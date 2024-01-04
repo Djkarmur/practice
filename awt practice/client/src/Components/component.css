@@ -1,0 +1,63 @@
+*{
+   margin:0;
+   padding:0; 
+}
+.navbar{
+    background-color: aquamarine;
+    padding:20px;
+    font-size: larger;
+  
+
+}
+.list li a{
+    text-decoration: none;
+    
+
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.userData{
+  
+    
+}
+.formData{
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width:50%;
+    
+}
+
+.formData >input{
+    height:30px;
+}
+.formData>button{
+    width:30%;
+    padding:10px;
+    margin:2px auto;
+    background-color: aquamarine;
+    border:1px black solid;
+    
+
+}
+.tableData {
+    width:50%;
+    margin:5px auto;
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    border: 3px solid black;
+}
+.content{
+    
+}
+.material>span{
+    text-align: center;
+}

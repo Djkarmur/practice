@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&family=Open+Sans:wght@300;400&family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500&display=swap');
+body{
+   background-color:#FFF2F2 ;
+   font-family: 'Open Sans', sans-serif;
+
+}
+.container{
+  background-color: #FAD4D4;
+  padding-bottom:10px ;
+  padding-top:15px;
+  margin-top:10%;
+  border-radius: 10px;
+  width:40%;
+}
+.btn {
+    background-color:#F47C7C ;
+    border-radius: 10px;
+    border:none;
+}
